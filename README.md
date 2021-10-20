@@ -1,7 +1,6 @@
 - Hi, I’m Zay Min Maw.
-- I’m interested in open source projects.
-- I’m currently learning full stack development.
-- I’m looking to collaborate.
+- Currently training to become a full-stack developer.
+- Would like to collaborate in open source projects.
 - You can reach me from twitter that is linked in the profile or here is my email zayminmaw77@gmail.com.
 - Looking for a job as junior developer.
 
