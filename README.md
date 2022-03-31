@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 - Hi, I’m Zay Min Maw.
 - Currently training to become a full-stack developer.
 - Would like to collaborate in open source projects.
