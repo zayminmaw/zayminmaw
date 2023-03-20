@@ -57,9 +57,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zayminmaw&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayminmaw&show_icons=true&locale=en&theme=vision-friendly-dark" alt="zayminmaw" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zayminmaw&theme=dark&background=000000" alt="zayminmaw"/>
+</div>  
+
+<br/><img align="center" src="https://github-readme-stats.vercel.app/api?username=hninhtet-99&show_icons=true&locale=en&theme=highcontrast" alt="hninhtet-99" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayminmaw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave Ah" />
