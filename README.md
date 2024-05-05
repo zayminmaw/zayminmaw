@@ -18,7 +18,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
+I am deeply passionate about startup culture and the process of creating products. My enthusiasm stems from a desire to craft solutions that are not only functional but also deeply resonant with users, embracing the concept of minimum-lovable products. I am highly motivated to innovate and carve out unique paths in problem-solving, constantly seeking opportunities to gain insights and knowledge along the way.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
 - :seedling: Exploring Web3.
