@@ -18,13 +18,18 @@
 
 ### :man_technologist: About Me :
 
-I am deeply passionate about startup culture and the process of creating products. My enthusiasm stems from a desire to craft solutions that are not only functional but also deeply resonant with users, embracing the concept of minimum-lovable products. I am highly motivated to innovate and carve out unique paths in problem-solving, constantly seeking opportunities to gain insights and knowledge along the way.
+Results-driven Software Engineer with 4+ years of experience in full-stack development, product
+leadership, and Web3 technologies. Skilled in JavaScript, React, Next.js, and Flutter with a
+proven track record of impactful projects, from transitioning technology stacks to leading product
+launches. Known for innovative solutions in e-commerce, logistics, and blockchain integrations.
+Passionate about startup culture and creating user-centric applications with a focus on agile
+methodologies.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend, backend, mobile and server infrastructure.
 
-- :seedling: Exploring Web3.
+- :seedling: Exploring Web3 and low level programming.
 
-- :zap: In my free time, I learn new languages, framework, read tech articles and write clone apps.
+- :zap: In my free time, I learn new languages, framework and write tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/zayminmaw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zayminmaw)
 
@@ -52,8 +57,10 @@ I am deeply passionate about startup culture and the process of creating product
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" **alt="Nestjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" **alt="Svelte" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" **alt="Nestjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" **alt="Svelte" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astrojs" **alt="Astrojs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
 </div>
 
 ---
