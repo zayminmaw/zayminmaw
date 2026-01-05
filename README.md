@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-Results-driven Software Engineer with 4+ years of experience in full-stack development, product
+Results-driven Software Engineer with 5+ years of experience in full-stack development, product
 leadership, and Web3 technologies. Skilled in JavaScript, React, Next.js, and Flutter with a
 proven track record of impactful projects, from transitioning technology stacks to leading product
 launches. Known for innovative solutions in e-commerce, logistics, and blockchain integrations.
