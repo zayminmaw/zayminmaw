@@ -8,80 +8,55 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=zay467&style=flat-square&color=blue" alt=""/>
-</div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/LQzvI8zbzrwZliUj3V/giphy.gif" width="600" height="300"/>
-</div> -->
-
----
-
-### :man_technologist: About Me :
-
-Results-driven Software Engineer with 5+ years of experience in full-stack development, product
-leadership, and Web3 technologies. Skilled in JavaScript, React, Next.js, and Flutter with a
-proven track record of impactful projects, from transitioning technology stacks to leading product
-launches. Known for innovative solutions in e-commerce, logistics, and blockchain integrations.
-Passionate about startup culture and creating user-centric applications with a focus on agile
-methodologies.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend, backend, mobile and server infrastructure.
-
-- :seedling: Exploring Web3 and low level programming.
-
-- :zap: In my free time, I learn new languages, framework and write tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/zayminmaw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zayminmaw)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" **alt="Nestjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" **alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astrojs" **alt="Astrojs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=zay467&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
 
-### :fire: My Stats :
+### :man_technologist: About Me
 
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayminmaw&show_icons=true&locale=en&theme=vision-friendly-dark" alt="zayminmaw" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zayminmaw&theme=dark&background=000000" alt="zayminmaw"/>
-</div>  
+Results-driven **Software Engineer** with 5+ years of experience in full-stack development and Web3 technologies. I specialize in building user-centric applications using React, Next.js, and Flutter, with a strong focus on scalable architecture and agile methodologies.
 
-<br/>
+- :globe_with_meridians: **Portfolio:** [zayminmaw.com](https://www.zayminmaw.com/)
+- :telescope: **Currently:** Contributing to frontend, backend, and mobile server infrastructure.
+- :seedling: **Exploring:** Advanced Web3 integrations and low-level programming.
+- :mailbox: **Reach Me:** [![Linkedin Badge](https://img.shields.io/badge/zayminmaw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zayminmaw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayminmaw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### :hammer_and_wrench: Tech Stack
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave Ah" />
-</p>
+#### **Frontend & Mobile**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-<!---
-zay467/zay467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+#### **Infrastructure & Web3**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
